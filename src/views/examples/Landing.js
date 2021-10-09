@@ -188,31 +188,29 @@ class Landing extends React.Component {
                             <i className="ni ni-istanbul" />
                           </div>
                           <h6 className="text-success text-uppercase">
-                            301 Project
+                          Youtrtion 
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          Our website is about the nutrition that the user can see his health status according to his BMI and provide to him a plan for his diet and he can find deferent recipes for wide list of meals so he can chose with the calories in each meal so he can track his daily calories mount.
                           </p>
                           <div>
                             <Badge color="success" pill className="mr-1">
-                              business
+                             HOME
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              vision
+                             Profile
                             </Badge>
                             <Badge color="success" pill className="mr-1">
-                              success
+                            Latest News
                             </Badge>
                           </div>
                           <Button
                             className="mt-4"
                             color="success"
-                            href="#pablo"
-                            onClick={e => e.preventDefault()}
+                            href="https://friendly-wescoff-d30c87.netlify.app/ "
+                            
                           >
-                            Learn more
+                           Move to  WebSite
                           </Button>
                         </CardBody>
                       </Card>
