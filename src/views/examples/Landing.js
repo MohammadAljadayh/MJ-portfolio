@@ -222,32 +222,35 @@ class Landing extends React.Component {
                             <i className="ni ni-planet" />
                           </div>
                           <h6 className="text-warning text-uppercase">
-                            401 Project
+                          SafeHouses
+                          
                           </h6>
                           <p className="description mt-3">
-                            Argon is a great free UI package based on Bootstrap
-                            4 that includes the most important components and
-                            features.
+                          It is a web app in one side helps the user to search for a house to rent it and communicate with owner within a safe platform using chat-room, on the other side , it provides houses'owners to post ads and allows them to edit their posts.
+in addition, it also provides the users to search for hotels to book any room . 
+
                           </p>
                           <div>
                             <Badge color="warning" pill className="mr-1">
-                              marketing
+                              Home
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              product
+                             Houses
                             </Badge>
                             <Badge color="warning" pill className="mr-1">
-                              launch
+                             Hotel
+                            </Badge>
+                            <Badge color="warning" pill className="mr-1">
+                          Profile
                             </Badge>
                           </div>
                           <Button
                             className="mt-4"
                             color="warning"
-                            href="#pablo"
-                            onClick={e => e.preventDefault()}
+                            href="https://housy-safe.netlify.app/"
+                    
                           >
-                            Learn more
-                          </Button>
+ Move to  WebSite                          </Button>
                         </CardBody>
                       </Card>
                     </Col>
